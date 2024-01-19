@@ -1,5 +1,5 @@
 <h1 align="center">Oi devs 👋</h1>
-<h3 align="center">Me chamo Wesley, sou um entusiasta da área de dados e amo aprender coisas novas!</h3>
+<h3 align="center">Me chamo Wesley, sou um entusiasta da área de dados, estou me aprofundando mais em Web e amo aprender coisas novas!</h3>
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Wesley-Costa&label=Profile%20views&color=0e75b6&style=flat" alt="Wesley-Costa" /> </p> 
