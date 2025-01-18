@@ -1,5 +1,5 @@
 <h1 align="center">Oi devs 👋</h1>
-<h3 align="center">Me chamo Wesley, sou um entusiasta da área de dados, estou me aprofundando mais em Web e amo aprender coisas novas!</h3>
+<h3 align="center">Me chamo Wesley, sou mestrando em Ciência da Computação na UFMG, entusiasta da área de dados, E estou me aprofundando mais em machine learning, deep learning e suas aplicações!</h3>
 
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Wesley-Costa&label=Profile%20views&color=0e75b6&style=flat" alt="Wesley-Costa" /> </p> 
@@ -7,13 +7,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Wesley-Costa" alt="Wesley-Costa" /></a> </p>
 --> 
 
-- 🌱 Atualmente estou focando meus estudos em Flask(Web), além de estar utilizando Python para fazer analises de dados e explorar mais da ciência de dados!
+- 🌱 Atualmente estou focando meus estudos em Python, Machine Learning e Deep Learning, além de estar utilizando Python para fazer analises de dados e explorar mais da ciência de dados!
 
 - 👨‍💻 Você pode encontrar meus projeto aqui mesmo!
 
 - 📫 Para contato **wesleycosta908@gmail.com**
 
-- 📄 Sobre minhas experiências **Estou buscando uma oportunidade**
 
 ## Se conecte comigo por:
 <p align="left">
