@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Wesley-Costa" alt="Wesley-Costa" /></a> </p>
 --> 
 
-- 🌱 Atualmente estou focando meus estudos em Python, Machine Learning e Deep Learning, além de estar utilizando Python para fazer analises de dados e explorar mais da ciência de dados!
+- 🌱 Atualmente, estou focando meus estudos em Python, R, Machine Learning e Deep Learning, além de utilizar Python para realizar análises de dados e explorar mais a ciência de dados.
 
 - 👨‍💻 Você pode encontrar meus projeto aqui mesmo!
 
