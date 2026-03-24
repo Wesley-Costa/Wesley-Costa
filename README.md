@@ -92,4 +92,6 @@
   </a>
 </p>
 
+---
+
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Wesley-Costa&show_icons=true&theme=radical)]([https://github.com/Wesley-Costa](https://github.com/Wesley-Costa))
