@@ -91,3 +91,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Wesley-Costa&show_icons=true&theme=radical)]([https://github.com/Wesley-Costa](https://github.com/Wesley-Costa))
